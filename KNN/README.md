@@ -10,7 +10,7 @@ Let’s assume a money lending company “XYZ” like UpStart, IndiaLends, etc. 
 
 Using customer’s detailed information from the database, it will calculate a credit score(discrete value) for each customer. The calculated credit score helps the company and lenders to understand the credibility of a customer clearly. So they can simply take a decision whether they should lend money to a particular customer or not.
 
-###The customer’s details could be:
+### The customer’s details could be:
 
 * Educational background details.
     * Highest graduated degree.
