@@ -37,4 +37,4 @@ So, they decided to use already available data of customers and predict the cred
   5. Let ki denotes the number of points belonging to the ith class among k points i.e. k ≥ 0
   6. If ki >kj ∀ i ≠ j then put x in class i.
   
-[KNN Implementation]()
+[KNN Implementation](https://github.com/kartik004/Machine-Learning-101/blob/master/KNN/KNN%20Implementation%20using%20python.ipynb)
