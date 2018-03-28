@@ -4,4 +4,5 @@
 
 * KNN
 * Naive Bayes
+* SVM
 * To be Continue....
